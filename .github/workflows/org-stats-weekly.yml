@@ -19,9 +19,7 @@ jobs:
           sudo apt install org-stats
       - name: get org daily contributor stats
         id: org-daily-stats
-        run: org-stats -o hduhelp --since 1d --include-reviews --top 10
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT }}
+        run: org-stats -o hduhelp --since 1d --include-reviews --top 10 --token ${{ secrets.PAT }}
       - name: Get current date
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
