@@ -1,4 +1,4 @@
-name: Org Stats
+name: Org Daily Stats
 on:
   schedule:
     - cron:  '0 16 * * *'
@@ -24,8 +24,10 @@ jobs:
       - name: Get current date
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
-      - name: echo file to file
-        run: echo ${{join(steps.run_torg-daily-statsests.outputs.*, '\n')}} > daily/${{ steps.date.outputs.date }}.md
+      - name: echo stats to file
+        run: echo ${{join(steps.run_torg-daily-statsests.outputs.*, '\n')}} > daily/${{ steps.date.outputs.date }}
+      - name: echo stats to readme
+        run: echo ${{join(steps.run_torg-daily-statsests.outputs.*, '\n')}} > readme.md
 
       - name: Commit report
         run: |
