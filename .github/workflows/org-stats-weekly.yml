@@ -12,24 +12,32 @@ jobs:
       - uses: actions/checkout@v2
         with:
           token: ${{ secrets.PAT }}
-      - name: install org stats
+      - name: load Go 1.18 env
+        uses: actions/setup-go@v1
+        with:
+          go-version: 1.18
+      - name: get org stats
         run: |
-          echo 'deb [trusted=yes] https://apt.fury.io/caarlos0/ /' | sudo tee /etc/apt/sources.list.d/caarlos0.list
-          sudo apt update
-          sudo apt install org-stats
-      - name: get org daily contributor stats
-        id: org-daily-stats
-        run: org-stats -o hduhelp --since 1d --include-reviews --top 10 --token ${{ secrets.PAT }}
+          go mod tidy
+          go run .
+        env:
+          GITHUB_PAT_TOKEN: ${{ secrets.PAT }}
+          GITHUB_ORG: ${{ secrets.STATS_ORG }}
       - name: Get current date
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
-      - name: echo file to file
-        run: echo ${{join(steps.run_torg-daily-statsests.outputs.*, '\n')}} > weekly/${{ steps.date.outputs.date }}
 
       - name: Commit report
         run: |
           git config --global user.name 'FDKevin'
           git config --global user.email 'fdkevinzero@gmail.com'
           git add -A
-          git commit -m "org daily report ${{ steps.date.outputs.date }}"
+          git commit -m "org weekly report ${{ steps.date.outputs.date }}"
           git push
+      - name: release report
+        uses: ncipollo/release-action@v1
+        with:
+          name: "org weekly report ${{ steps.date.outputs.date }}"
+          artifacts: "*.result,*.log"
+          bodyFile: "org-stats-${{ steps.date.outputs.date }}.result"
+          token: ${{ secrets.GITHUB_TOKEN }}
