@@ -106,43 +106,43 @@
 -   G-Akiraka with 13 commits!
 -   Xav1erSue with 13 commits!
 -   rruofan with 12 commits!
--   cocoshe with 10 commits!
 -   Megrax with 10 commits!
+-   cocoshe with 10 commits!
 -   sslime336 with 9 commits!
 -   camera-2018 with 8 commits!
 -   violetjam with 7 commits!
--   Jon-a-than with 6 commits!
 -   misakichan with 6 commits!
--   Marthym with 5 commits!
--   ninstein with 5 commits!
--   Poivre-hxx with 5 commits!
+-   Jon-a-than with 6 commits!
 -   Frequency-Melody with 5 commits!
+-   Poivre-hxx with 5 commits!
+-   ninstein with 5 commits!
+-   Marthym with 5 commits!
 -   HoraceHuang-ui with 4 commits!
 -   hf618 with 4 commits!
 -   MarleneJiang with 4 commits!
--   masterder with 3 commits!
--   RedBowtie with 3 commits!
+-   FranklinThree with 3 commits!
 -   akmdmc with 3 commits!
--   Cassuis with 3 commits!
 -   MoefulYe with 3 commits!
 -   1551gululu with 3 commits!
--   FranklinThree with 3 commits!
--   violet-hekmatyar with 2 commits!
+-   RedBowtie with 3 commits!
+-   Cassuis with 3 commits!
+-   masterder with 3 commits!
 -   t0hka1 with 2 commits!
--   NightFire0307 with 2 commits!
--   sanLiR with 2 commits!
 -   YuYoung32 with 2 commits!
--   Yoann-M with 2 commits!
+-   violet-hekmatyar with 2 commits!
+-   NightFire0307 with 2 commits!
 -   zuoxinerdemao with 2 commits!
--   frostheaven with 1 commits!
--   gopher-johns with 1 commits!
+-   sanLiR with 2 commits!
+-   Yoann-M with 2 commits!
 -   GizmoOAO with 1 commits!
--   copurxia with 1 commits!
+-   frostheaven with 1 commits!
+-   AsakiRain with 1 commits!
+-   gopher-johns with 1 commits!
 -   bxttttt with 1 commits!
 -   JIU10 with 1 commits!
--   appleboy with 1 commits!
--   AsakiRain with 1 commits!
 -   hoodies-gent with 1 commits!
+-   copurxia with 1 commits!
+-   appleboy with 1 commits!
 
 ### Lines Added champions are:
 - 🏆 FDKevin0 with 466878 lines added!
@@ -196,8 +196,8 @@
 -   Marthym with 90 lines added!
 -   HoraceHuang-ui with 59 lines added!
 -   YuYoung32 with 57 lines added!
--   Frequency-Melody with 44 lines added!
 -   MoefulYe with 44 lines added!
+-   Frequency-Melody with 44 lines added!
 -   sanLiR with 32 lines added!
 -   Yoann-M with 27 lines added!
 -   AsakiRain with 27 lines added!
@@ -209,8 +209,8 @@
 -   hoodies-gent with 15 lines added!
 -   NightFire0307 with 14 lines added!
 -   bxttttt with 11 lines added!
--   RedBowtie with 6 lines added!
 -   misakichan with 6 lines added!
+-   RedBowtie with 6 lines added!
 -   masterder with 4 lines added!
 -   GizmoOAO with 3 lines added!
 -   appleboy with 1 lines added!
@@ -264,28 +264,28 @@
 -   lxwzy with 29 lines removed!
 -   Cassuis with 14 lines removed!
 -   ninstein with 12 lines removed!
--   NightFire0307 with 8 lines removed!
 -   MarleneJiang with 8 lines removed!
+-   NightFire0307 with 8 lines removed!
 -   MoefulYe with 5 lines removed!
--   misakichan with 4 lines removed!
 -   RedBowtie with 4 lines removed!
+-   misakichan with 4 lines removed!
 -   1551gululu with 3 lines removed!
 -   GizmoOAO with 3 lines removed!
+-   masterder with 2 lines removed!
+-   HoraceHuang-ui with 2 lines removed!
 -   gopher-johns with 2 lines removed!
 -   Frequency-Melody with 2 lines removed!
--   HoraceHuang-ui with 2 lines removed!
--   masterder with 2 lines removed!
 -   appleboy with 1 lines removed!
 -   frostheaven with 0 lines removed!
--   sanLiR with 0 lines removed!
--   JIU10 with 0 lines removed!
--   hf618 with 0 lines removed!
--   YuYoung32 with 0 lines removed!
 -   AsakiRain with 0 lines removed!
--   zuoxinerdemao with 0 lines removed!
 -   copurxia with 0 lines removed!
--   bxttttt with 0 lines removed!
+-   hf618 with 0 lines removed!
+-   sanLiR with 0 lines removed!
+-   zuoxinerdemao with 0 lines removed!
 -   hoodies-gent with 0 lines removed!
+-   bxttttt with 0 lines removed!
+-   YuYoung32 with 0 lines removed!
+-   JIU10 with 0 lines removed!
 -   violet-hekmatyar with 0 lines removed!
 
 ## TOP10 in History
