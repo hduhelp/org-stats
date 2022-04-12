@@ -74,7 +74,7 @@ func main() {
 		readme.WriteString(fmt.Sprintf("%s", v.str))
 	}
 	for _, v := range outList {
-		if v.time.Before(time.Now().AddDate(0, -2, 0)) {
+		if v.time.Before(time.Now().AddDate(0, 0, -10)) {
 			continue
 		}
 		result.WriteString(fmt.Sprintf("## %s\n\n", v.title))
