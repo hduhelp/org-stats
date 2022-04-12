@@ -25,7 +25,6 @@ func main() {
 		panic(err)
 	}
 	defer result.Close()
-	os.Remove("readme.md")
 	readme, err := os.Create("readme.md")
 	if err != nil {
 		panic(err)

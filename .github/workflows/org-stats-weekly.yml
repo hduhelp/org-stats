@@ -32,12 +32,12 @@ jobs:
           git config --global user.name 'FDKevin'
           git config --global user.email 'fdkevinzero@gmail.com'
           git add -A
-          git commit -m "org weekly report ${{ steps.date.outputs.date }}"
+          git commit -m "weekly report ${{ steps.date.outputs.date }}"
           git push
       - name: release report
         uses: ncipollo/release-action@v1
         with:
-          name: "org weekly report ${{ steps.date.outputs.date }}"
+          name: "${{ secrets.STATS_ORG }} weekly report ${{ steps.date.outputs.date }}"
           commit: main
           artifacts: "*.result,*.log"
           tag: ${{ steps.date.outputs.date }}

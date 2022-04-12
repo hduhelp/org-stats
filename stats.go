@@ -36,24 +36,28 @@ func (s Stats) For(login string) Stat {
 	return s.data[login]
 }
 
+func weekStartDate(date time.Time) time.Time {
+	return time.Date(date.Year(), date.Month(), date.Day(), 0, 0, 0, 0, time.UTC).AddDate(0, 0, -int(date.Weekday()))
+}
+
 // NewStats return a new Stats map
 func NewStats() StatsList {
 	return StatsList{
-		time.Now().AddDate(0, 0, -7): {
-			title: "all since last Week",
+		weekStartDate(time.Now().AddDate(0, 0, -7)): {
+			title: "All Guys since Sunday of Last Week",
 			data:  make(map[string]Stat),
 		},
 		time.Now().AddDate(0, -1, 0): {
-			title: "top 10 since last Mounth",
+			title: "Top 10 since last Mounth",
 			data:  make(map[string]Stat),
 			top:   10,
 		},
 		time.Now().AddDate(-1, 0, 0): {
-			title: "all guys since last year",
+			title: "All Guys since Last Year",
 			data:  make(map[string]Stat),
 		},
 		time.Time{}: {
-			title: "TOP10 in History",
+			title: "TOP 10 in History",
 			data:  make(map[string]Stat),
 			top:   10,
 		},
