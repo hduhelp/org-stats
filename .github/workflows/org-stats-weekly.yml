@@ -38,6 +38,8 @@ jobs:
         uses: ncipollo/release-action@v1
         with:
           name: "org weekly report ${{ steps.date.outputs.date }}"
+          commit: main
           artifacts: "*.result,*.log"
+          tag: ${{ steps.date.outputs.date }}
           bodyFile: "org-stats-${{ steps.date.outputs.date }}.result"
           token: ${{ secrets.GITHUB_TOKEN }}
