@@ -4,16 +4,16 @@
 
 ### Commits champions are:
 - 🏆 aFlyBird0 with 10 commits!
-- 🥈 daidr with 7 commits!
-- 🥉 ZacharyWin with 6 commits!
--   FDKevin0 with 6 commits!
+- 🥈 FDKevin0 with 8 commits!
+- 🥉 daidr with 7 commits!
+-   ZacharyWin with 6 commits!
 -   sunalwaysknows with 4 commits!
 -   asjdf with 3 commits!
 -   FranklinThree with 2 commits!
 -   xiao-jay with 1 commits!
 
 ### Lines Added champions are:
-- 🏆 FDKevin0 with 4115 lines added!
+- 🏆 FDKevin0 with 4925 lines added!
 - 🥈 sunalwaysknows with 2365 lines added!
 - 🥉 aFlyBird0 with 660 lines added!
 -   ZacharyWin with 535 lines added!
@@ -23,7 +23,7 @@
 -   xiao-jay with 4 lines added!
 
 ### Housekeeper champions are:
-- 🏆 FDKevin0 with 1427 lines removed!
+- 🏆 FDKevin0 with 1728 lines removed!
 - 🥈 asjdf with 414 lines removed!
 - 🥉 ZacharyWin with 147 lines removed!
 -   aFlyBird0 with 101 lines removed!
@@ -35,7 +35,7 @@
 ## top 10 since last Mounth
 
 ### Commits champions are:
-- 🏆 FDKevin0 with 185 commits!
+- 🏆 FDKevin0 with 187 commits!
 - 🥈 asjdf with 175 commits!
 - 🥉 sunalwaysknows with 79 commits!
 -   aFlyBird0 with 65 commits!
@@ -47,7 +47,7 @@
 -   sjcsjc123 with 14 commits!
 
 ### Lines Added champions are:
-- 🏆 FDKevin0 with 99034 lines added!
+- 🏆 FDKevin0 with 99844 lines added!
 - 🥈 asjdf with 44218 lines added!
 - 🥉 sunalwaysknows with 8877 lines added!
 -   ZacharyWin with 8030 lines added!
@@ -59,7 +59,7 @@
 -   sjcsjc123 with 856 lines added!
 
 ### Housekeeper champions are:
-- 🏆 FDKevin0 with 90872 lines removed!
+- 🏆 FDKevin0 with 91173 lines removed!
 - 🥈 asjdf with 8048 lines removed!
 - 🥉 sunalwaysknows with 4001 lines removed!
 -   aFlyBird0 with 2756 lines removed!
@@ -73,7 +73,7 @@
 ## all guys since last year
 
 ### Commits champions are:
-- 🏆 FDKevin0 with 1808 commits!
+- 🏆 FDKevin0 with 1810 commits!
 - 🥈 AkaAny with 781 commits!
 - 🥉 asjdf with 770 commits!
 -   lim-kim930 with 699 commits!
@@ -89,8 +89,8 @@
 -   770690988 with 101 commits!
 -   spencerwooo with 98 commits!
 -   Esonhugh with 94 commits!
--   pplllll with 86 commits!
 -   S1rine with 86 commits!
+-   pplllll with 86 commits!
 -   XMLHexagram with 55 commits!
 -   TwiN with 50 commits!
 -   ek1ng with 44 commits!
@@ -100,8 +100,8 @@
 -   pcdotfan with 22 commits!
 -   Lost-little-dinosaur with 21 commits!
 -   NOTSPROG with 18 commits!
--   lxwzy with 17 commits!
 -   william0620 with 17 commits!
+-   lxwzy with 17 commits!
 -   sjcsjc123 with 14 commits!
 -   G-Akiraka with 13 commits!
 -   Xav1erSue with 13 commits!
@@ -111,41 +111,41 @@
 -   sslime336 with 9 commits!
 -   camera-2018 with 8 commits!
 -   violetjam with 7 commits!
--   misakichan with 6 commits!
 -   Jon-a-than with 6 commits!
+-   misakichan with 6 commits!
+-   ninstein with 5 commits!
 -   Marthym with 5 commits!
 -   Poivre-hxx with 5 commits!
--   ninstein with 5 commits!
 -   Frequency-Melody with 5 commits!
 -   HoraceHuang-ui with 4 commits!
--   MarleneJiang with 4 commits!
 -   hf618 with 4 commits!
--   Cassuis with 3 commits!
--   masterder with 3 commits!
+-   MarleneJiang with 4 commits!
 -   1551gululu with 3 commits!
--   MoefulYe with 3 commits!
--   RedBowtie with 3 commits!
 -   akmdmc with 3 commits!
+-   Cassuis with 3 commits!
+-   MoefulYe with 3 commits!
+-   masterder with 3 commits!
 -   FranklinThree with 3 commits!
--   zuoxinerdemao with 2 commits!
+-   RedBowtie with 3 commits!
 -   violet-hekmatyar with 2 commits!
--   Yoann-M with 2 commits!
 -   YuYoung32 with 2 commits!
 -   NightFire0307 with 2 commits!
--   sanLiR with 2 commits!
 -   t0hka1 with 2 commits!
--   bxttttt with 1 commits!
+-   sanLiR with 2 commits!
+-   zuoxinerdemao with 2 commits!
+-   Yoann-M with 2 commits!
+-   gopher-johns with 1 commits!
 -   copurxia with 1 commits!
 -   AsakiRain with 1 commits!
--   appleboy with 1 commits!
--   frostheaven with 1 commits!
+-   bxttttt with 1 commits!
 -   GizmoOAO with 1 commits!
--   JIU10 with 1 commits!
+-   appleboy with 1 commits!
 -   hoodies-gent with 1 commits!
--   gopher-johns with 1 commits!
+-   frostheaven with 1 commits!
+-   JIU10 with 1 commits!
 
 ### Lines Added champions are:
-- 🏆 FDKevin0 with 466068 lines added!
+- 🏆 FDKevin0 with 466878 lines added!
 - 🥈 ZacharyWin with 251726 lines added!
 - 🥉 sunalwaysknows with 173363 lines added!
 -   asjdf with 94808 lines added!
@@ -192,8 +192,8 @@
 -   violetjam with 146 lines added!
 -   MarleneJiang with 116 lines added!
 -   gopher-johns with 101 lines added!
--   Marthym with 90 lines added!
 -   FranklinThree with 90 lines added!
+-   Marthym with 90 lines added!
 -   HoraceHuang-ui with 59 lines added!
 -   YuYoung32 with 57 lines added!
 -   Frequency-Melody with 44 lines added!
@@ -203,21 +203,21 @@
 -   Yoann-M with 27 lines added!
 -   1551gululu with 26 lines added!
 -   ninstein with 20 lines added!
+-   frostheaven with 17 lines added!
 -   JIU10 with 17 lines added!
 -   Cassuis with 17 lines added!
--   frostheaven with 17 lines added!
 -   hoodies-gent with 15 lines added!
 -   NightFire0307 with 14 lines added!
 -   bxttttt with 11 lines added!
--   RedBowtie with 6 lines added!
 -   misakichan with 6 lines added!
+-   RedBowtie with 6 lines added!
 -   masterder with 4 lines added!
 -   GizmoOAO with 3 lines added!
 -   appleboy with 1 lines added!
 -   copurxia with 0 lines added!
 
 ### Housekeeper champions are:
-- 🏆 FDKevin0 with 659076 lines removed!
+- 🏆 FDKevin0 with 659377 lines removed!
 - 🥈 songhn233 with 80838 lines removed!
 - 🥉 wenjianzhang with 74247 lines removed!
 -   aFlyBird0 with 38379 lines removed!
@@ -264,35 +264,35 @@
 -   lxwzy with 29 lines removed!
 -   Cassuis with 14 lines removed!
 -   ninstein with 12 lines removed!
--   MarleneJiang with 8 lines removed!
 -   NightFire0307 with 8 lines removed!
+-   MarleneJiang with 8 lines removed!
 -   MoefulYe with 5 lines removed!
 -   misakichan with 4 lines removed!
 -   RedBowtie with 4 lines removed!
 -   1551gululu with 3 lines removed!
 -   GizmoOAO with 3 lines removed!
--   gopher-johns with 2 lines removed!
--   masterder with 2 lines removed!
--   HoraceHuang-ui with 2 lines removed!
 -   Frequency-Melody with 2 lines removed!
+-   gopher-johns with 2 lines removed!
+-   HoraceHuang-ui with 2 lines removed!
+-   masterder with 2 lines removed!
 -   appleboy with 1 lines removed!
--   hoodies-gent with 0 lines removed!
--   violet-hekmatyar with 0 lines removed!
--   zuoxinerdemao with 0 lines removed!
--   frostheaven with 0 lines removed!
--   hf618 with 0 lines removed!
--   AsakiRain with 0 lines removed!
--   YuYoung32 with 0 lines removed!
--   JIU10 with 0 lines removed!
 -   copurxia with 0 lines removed!
+-   YuYoung32 with 0 lines removed!
+-   hf618 with 0 lines removed!
 -   sanLiR with 0 lines removed!
 -   bxttttt with 0 lines removed!
+-   AsakiRain with 0 lines removed!
+-   hoodies-gent with 0 lines removed!
+-   zuoxinerdemao with 0 lines removed!
+-   frostheaven with 0 lines removed!
+-   violet-hekmatyar with 0 lines removed!
+-   JIU10 with 0 lines removed!
 
 ## TOP10 in History
 
 ### Commits champions are:
 - 🏆 BillSJC with 4776 commits!
-- 🥈 FDKevin0 with 2862 commits!
+- 🥈 FDKevin0 with 2864 commits!
 - 🥉 laosb with 1771 commits!
 -   Moesang with 1473 commits!
 -   reyoung with 1402 commits!
@@ -305,7 +305,7 @@
 ### Lines Added champions are:
 - 🏆 eurekaJoe with 3304621 lines added!
 - 🥈 qianlongzt with 1468329 lines added!
-- 🥉 FDKevin0 with 1113704 lines added!
+- 🥉 FDKevin0 with 1114514 lines added!
 -   TwiN with 996905 lines added!
 -   wenjianzhang with 724392 lines added!
 -   wuhan005 with 539514 lines added!
@@ -316,7 +316,7 @@
 
 ### Housekeeper champions are:
 - 🏆 qianlongzt with 845003 lines removed!
-- 🥈 FDKevin0 with 725054 lines removed!
+- 🥈 FDKevin0 with 725355 lines removed!
 - 🥉 wenjianzhang with 656323 lines removed!
 -   TwiN with 614755 lines removed!
 -   laosb with 197251 lines removed!

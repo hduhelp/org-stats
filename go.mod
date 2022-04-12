@@ -4,7 +4,6 @@ go 1.18
 
 require (
 	github.com/charmbracelet/bubbletea v0.20.0
-	github.com/charmbracelet/lipgloss v0.5.0
 	github.com/google/go-github/v43 v43.0.0
 	golang.org/x/oauth2 v0.0.0-20180821212333-d2e6202438be
 )
