@@ -39,7 +39,7 @@ jobs:
         with:
           name: "${{ secrets.STATS_ORG }} weekly report ${{ steps.date.outputs.date }}"
           commit: main
-          artifacts: "*.result,*.log"
+          artifacts: "*.result"
           tag: ${{ steps.date.outputs.date }}
           bodyFile: "org-stats-${{ steps.date.outputs.date }}.result"
           token: ${{ secrets.GITHUB_TOKEN }}
