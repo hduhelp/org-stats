@@ -2,7 +2,7 @@ name: Org Weely Stats
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '0 16 * * 1'
+    - cron:  '0 2 * * 0'
 
 jobs:
   stats:
