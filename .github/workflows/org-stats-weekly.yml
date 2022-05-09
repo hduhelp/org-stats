@@ -1,8 +1,11 @@
-name: Org Weely Stats
+name: Org Weekly Stats
 on:
   workflow_dispatch:
   schedule:
     - cron:  '0 2 * * 0'
+  push:
+    tags:
+      - test*
 
 jobs:
   stats:
@@ -16,9 +19,10 @@ jobs:
         uses: actions/setup-go@v1
         with:
           go-version: 1.18
+      - name: tidy
+        run: go mod tidy
       - name: get org stats
         run: |
-          go mod tidy
           go run .
         env:
           GITHUB_PAT_TOKEN: ${{ secrets.PAT }}
