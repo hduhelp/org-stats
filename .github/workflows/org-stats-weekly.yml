@@ -2,7 +2,7 @@ name: Org Weekly Stats
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '0 2 * * 0'
+    - cron: "0 2 * * 0"
   push:
     tags:
       - test*
@@ -12,21 +12,30 @@ jobs:
     name: Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           token: ${{ secrets.PAT }}
       - name: load Go 1.18 env
-        uses: actions/setup-go@v1
+        uses: actions/setup-go@v3
         with:
           go-version: 1.18
-      - name: tidy
-        run: go mod tidy
+
+      - uses: actions/cache@v3
+        with:
+          path: |
+            ~/.cache/go-build
+            ~/go/pkg/mod
+          key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-go-
+      - name: go build
+        run: go build -o main .
       - name: get org stats
-        run: |
-          go run .
+        run: ./main
         env:
           GITHUB_PAT_TOKEN: ${{ secrets.PAT }}
           GITHUB_ORG: ${{ secrets.STATS_ORG }}
+
       - name: Get current date
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
